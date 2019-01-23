@@ -9,6 +9,10 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    
+    
+    var text = "Coucou !!!"
 
     override func viewDidLoad() {
         super.viewDidLoad()
